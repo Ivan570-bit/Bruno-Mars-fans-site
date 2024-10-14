@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>The generic | Bruno Mars</title>
+    <meta name="description" content="The Genetics fan site">
+    <link rel="stylesheet" href="styles.css"/>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="index.html">HOME</a></li>
+          <li><a href="store.html">STORE</a></li>
+          <li><a href="about.html">ABOUT</a></li>
+        </ul>
+      </nav>
+      <hr>
+      <h1>Bruno Mars</h1>
+    </header>
+    <section>
+      <h2>MUSIC</h2>
+      <div>
+        <div>
+          <strong>Album 1</strong>
+        </div>
+        <img src="https://themchenrymessenger.com/wp-content/uploads/2022/10/mars.jpg" width="200px">
+        <div>
+          <span>$12.99</span>
+          <button type="button">ADD TO CART</button>
+        </div>
+      </div>
+      <div>
+        <div>
+          <strong>Album 2</strong>
+        </div>
+        <img src="https://media.pitchfork.com/photos/5929bfa95e6ef95969323435/master/pass/795b3f6e.jpg" width=200px>
+        <div>
+          <span>$14.99</span>
+          <button type="button">ADD TO CART</button>
+        </div>
+      </div>
+      <div>
+        <div>
+          <strong>Album 3</strong>
+        </div>
+        <img src="https://www.brunomars.com/sites/g/files/g2000013556/files/2024-08/Vz9CX1LxyQ5c.jpg" width=200px>
+        <div>
+          <span>$9.99</span>
+          <button type="button">ADD TO CART</button>
+        </div>
+      </div>
+      <div>
+        <div>
+        <img src="https://store.brunomars.com/cdn/shop/files/bmtee5.png?v=1704429521" width="200" height="200">
+        <span><strong>T-shirt</strong></span>
+        &lt;&gt;
+        <span>$19.99</span>
+        &lt;&gt;
+        <input type="number" value="1">
+        <button type="button">REMOVE</button>
+        </div>
+      </div>
+      <div>
+        <img src="Images/Shirt.jpg" width="200" height="200">
+        <span><strong>T-Shirt</strong></span>
+        &lt;&gt;
+        <span>$24.99</span>
+        &lt;&gt;
+        <input type="number" value="1">
+        <button type="button">REMOVE</button>
+      </div>
+      <div>
+        <div>
+          <strong>Coffee cup</strong>
+        </div>
+        <img src="https://5.imimg.com/data5/ECOM/Default/2023/7/322668485/TM/ZU/VC/83482573/bruno-mars-mugs-uptown-funk.jpg" width=200px>
+      <div>
+        <span>$6.99</span>
+        <button type="botton">ADD TO CART</button>
+        </div>
+      </div>
+      <div>
+        <div>
+          <strong>Coffee cup</strong>
+        </div>
+        <img src="data:image/jpeg;base64,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" width=200px>
+      <div>
+        <span>$9.99</span>
+        <button type="botton">ADD TO CART</button>
+        </div>
+      </div>
+      <div>
+        <div>
+          <strong>Phone case</strong>
+        </div>
+        <img src="https://ih1.redbubble.net/image.5394584011.7458/icr,iphone_15_tough,back,a,x600-pad,600x600,f8f8f8.jpg" width=200px>
+      <div>
+        <span>$6.99</span>
+        <button type="botton">ADD TO CART</button>
+        </div>
+      </div>
+      <p>Bruno Mars is a American profeesional singer who born in 1985. He is known for his stage performances. In 2024, he create a new song with Lady Gaga which is name die "with a smile".</p>
+    </section>
+    <footer>
+      <h3><img src="https://i8.amplience.net/i/naras/bruno-mars_MI0004141313-MN0001032082" width="300px"></h3>
+    <ul>
+      <li>
+        <a href="https://www.youtube.com" target="_blank">
+          <img src="Image/YouTube Logo.png">
+        </a>
+      </li>
+      <li>
+        <a href="https://www.youtube.com" target="_blank">
+          <img src="Images/Sportify Logo.png">
+        </a>
+      </li>
+      <li>
+        <a href="https://www.youtube.com" target="_blank">
+          <img src="Image/Facebook Logo.png">
+        </a>
+      </li>
+    </ul>
+    </footer>
+  </body>
+</html>
